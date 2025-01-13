@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wang Xue"
+title: "Ai Yong"
 author_profile: true
 redirect_from: 
   - /about/
